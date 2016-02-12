@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties for JSwingC64</comment>
+<entry key="DriveMode">50</entry>
+<entry key="FrameSkip">0</entry>
+<entry key="MouseUsage">1</entry>
+<entry key="JoystickPort">0</entry>
+<entry key="ImageDirectory">C:\Documents and Settings\Administrator\Documenti\Download</entry>
+<entry key="WindowScaling">1</entry>
+</properties>
